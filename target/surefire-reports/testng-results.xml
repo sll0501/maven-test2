@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="First suite" duration-ms="13" started-at="2022-11-11T07:20:07Z" finished-at="2022-11-11T07:20:07Z">
+    <groups>
+    </groups>
+    <test name="allTestInAPackage" duration-ms="13" started-at="2022-11-11T07:20:07Z" finished-at="2022-11-11T07:20:07Z">
+      <class name="com.lyjs.test.IndexTest">
+        <test-method status="PASS" signature="test01()[pri:0, instance:com.lyjs.test.IndexTest@3dd3bcd]" name="test01" duration-ms="5" started-at="2022-11-11T15:20:07Z" finished-at="2022-11-11T15:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="test02()[pri:0, instance:com.lyjs.test.IndexTest@3dd3bcd]" name="test02" duration-ms="0" started-at="2022-11-11T15:20:07Z" finished-at="2022-11-11T15:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+      </class> <!-- com.lyjs.test.IndexTest -->
+    </test> <!-- allTestInAPackage -->
+  </suite> <!-- First suite -->
+</testng-results>

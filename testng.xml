@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="First suite" verbose="1" >
+  <test name="allTestInAPackage">
+    <classes>
+      <class name="com.lyjs.test.IndexTest"></class>
+    </classes>
+  </test>
+  <listeners>
+    <listener class-name="com.lyjs.listener.TestReportListener"></listener>
+  </listeners>
+</suite>
+
